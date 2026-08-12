@@ -33,94 +33,82 @@ The goal of this project is to build practical experience through home lab activ
 ### User Identification
 
 Command used:
-
-```bash
-whoami
-```
+`whoami`
 
 Purpose:
-
 Identify the currently logged-in user.
+
+<details>
+  <summary>📸 Click to view evidence</summary>
+  <br>
+  <img src="./screenshots/whoami.png" alt="User Identification Screenshot" width="600" />
+</details>
 
 ---
 
 ### Current Directory
 
 Command used:
-
-```bash
-pwd
-```
+`pwd`
 
 Purpose:
-
 Display the current working directory.
+
+<details>
+  <summary>📸 Click to view evidence</summary>
+  <br>
+  <img src="./screenshots/pwd.png" alt="Current Working Directory Screenshot" width="600" />
+</details>
 
 ---
 
 ### Network Information
 
 Command used:
-
-```bash
-ip a
-```
+`ip a`
 
 Purpose:
-
 Display network interfaces and IP address configuration.
 
+<details>
+  <summary>📸 Click to view evidence</summary>
+  <br>
+  <img src="./screenshots/ip-a.png" alt="Network Configuration Screenshot" width="600" />
+</details>
+
 ---
 
 ### Connectivity Test
 
 Command used:
-
-```bash
-ping google.com -c 4
-```
+`ping google.com -c 4`
 
 Purpose:
-
 Verify network connectivity and DNS resolution.
 
+<details>
+  <summary>📸 Click to view evidence</summary>
+  <br>
+  <img src="./screenshots/ping-google.png" alt="Connectivity Test Screenshot" width="600" />
+</details>
+
 ---
 
-## File Listing
+### File Listing
 
 Command used:
-
-```bash
-ls -la
-```
+`ls -la`
 
 Purpose:
-
 Display detailed information about files and directories, including hidden files.
 
+<details>
+  <summary>📸 Click to view evidence</summary>
+  <br>
+  <img src="./screenshots/ls-la.png" alt="File Listing Screenshot" width="600" />
+</details>
+
 ---
-
-## Screenshots
-
-### User Identification
-
-screenshots/whoami.png
-
-### Current Working Directory
-
-screenshots/pwd.png
-
-### Network Configuration
-
-screenshots/ip-a.png
-
-### Connectivity Test
-
-screenshots/ping-google.png
-
-## File Listing
-
-screenshots/ls-la.png
 
 ## Project Status
 
